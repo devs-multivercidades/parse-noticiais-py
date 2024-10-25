@@ -75,16 +75,7 @@ def sanitizar_nome_arquivo(titulo, data):
 
 # Lista de URLs para scraping
 urls = [
-    'https://reporterbrasil.org.br/2013/07/plantio-de-dende-entra-na-lista-de-atividades-com-trabalho-escravo/',
-    'https://portaltailandia.com/tailandia-pa/tailandia-trabalhadores-da-agropalma-interditam-a-rodovia-pa-150/',
-    'https://portaltailandia.com/para/comunidade-quilombola-de-moju-recebe-titulo-de-terra-do-governo/',
-    'https://racismoambiental.net.br/2016/01/14/povo-tembe-lanca-nota-de-repudio-as-violencias-cometidas-contra-indigenas-e-quilombolas-nos-municipios-de-acara-e-tome-acu-pa/',
-    'https://portaltailandia.com/para/corpo-de-lider-quilombola-e-encontrado-enterrado-as-margens-do-rio-moju/',
-    'https://portaltailandia.com/para/tiraram-sua-vida-da-forma-mais-cruel-possivel-lamenta-sobrinha-de-lider-quilombola-morta-em-moju/',
-    'https://www.zedudu.com.br/dia-do-indio-sem-muito-comemorar-com-as-terras-indigenas-ameacadas-pela-pec-215/',
-    'https://www.brasildefato.com.br/2017/05/17/monocultura-do-dende-traz-impactos-ambientais-para-comunidades-no-nordeste-paraense',
-    'https://g1.globo.com/pa/para/noticia/operacao-da-pf-investiga-fraudes-em-documentos-de-regularizacao-fundiaria-no-para.ghtml',
-    'https://portaltailandia.com/tailandia-pa/justica-garante-posse-de-terras-no-baixo-tocantins-a-agropalma/'
+    # INSERIR AS URLS AQUI
 ]
 
 # Inicializando o navegador
