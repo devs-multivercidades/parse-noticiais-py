@@ -1,6 +1,6 @@
 # Web Scraping com Selenium e BeautifulSoup
 
-Este script realiza scraping de 10 URLs, extraindo o título, data de publicação e os termos mais frequentes das matérias, e salva os dados em arquivos CSV separados.
+Este script realiza scraping de URLs, extraindo o título, data de publicação e os termos mais frequentes das matérias, e salva os dados em arquivos CSV separados.
 
 ## Requisitos
 
